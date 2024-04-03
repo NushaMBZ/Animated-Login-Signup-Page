@@ -32,8 +32,8 @@ cd Animated-Login-Signup-Page
 Here we have project screenshot :
 
 <div align="center">
-    <img src="Signin.png" alt="Signin Screenshot" width="150" style="margin-right: '10px';"/>
-    <img src="Signup.png" alt="Signup Screenshot" width="150" style="margin-right: '10px';"/>
+    <img src="Signin.png" alt="Signin Screenshot" style="margin-right: '10px';"/>
+    <img src="Signup.png" alt="Signup Screenshot" style="margin-right: '10px';"/>
 </div>
 ## Features
 
