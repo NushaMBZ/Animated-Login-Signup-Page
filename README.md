@@ -41,10 +41,6 @@ Here we have project screenshot :
 - Simple and intuitive layout for easy navigation.
 - Responsive design to ensure compatibility with various screen sizes and devices.
 
-## Credits
-
-This project was created by [Your Name] as a part of [Project Name]. Feel free to customize and modify it according to your requirements.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
